@@ -6,7 +6,7 @@ import {
   CardHeader,
   CardTitle,
 } from '@/components/ui/card'
-// import { pricingCards } from '@/lib/constants'
+import { pricingCards } from '@/lib/constants'
 // import { stripe } from '@/lib/stripe'
 import clsx from 'clsx'
 import { Check } from 'lucide-react'
