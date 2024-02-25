@@ -11,8 +11,8 @@ import { ThemeProvider } from '@/providers/theme-provider';
 const font = DM_Sans({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Plura',
-  description: 'All in one Agency Solution',
+  title: 'EventDee',
+  description: 'Marketplace for events',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
